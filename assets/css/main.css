@@ -1,6 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
-@import url('https://fonts.googleapis.com/earlyaccess/cwtexkai.css');
+@import url('https://fonts.googleapis.com/earlyaccess/cwtexfangsong.css');
 
 /* Reset */
 
@@ -4070,5 +4070,5 @@
 		}
 /*set word*/
 .chinese_traditional{
-	font-family: 'cwTeXKai',Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+	font-family: 'cwTeXFangSong',Helvetica,"Helvetica Neue",Arial,sans-serif !important;
 }
