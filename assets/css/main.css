@@ -1,12 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 
-/*
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -3924,7 +3918,7 @@
 				}
 
 				#banner .image {
-					-moz-flex-grow: 0;
+					/*-moz-flex-grow: 0;
 					-webkit-flex-grow: 0;
 					-ms-flex-grow: 0;
 					flex-grow: 0;
@@ -3936,6 +3930,17 @@
 					height: 25em;
 					max-height: 50vh;
 					min-height: 18em;
+					width: 100%;*/
+					-moz-flex-grow: 0;
+					-webkit-flex-grow: 0;
+					-ms-flex-grow: 0;
+					flex-grow: 0;
+					-moz-flex-shrink: 0;
+					-webkit-flex-shrink: 0;
+					-ms-flex-shrink: 0;
+					flex-shrink: 0;
+					margin: 0 0 2em 0;
+					height: auto;
 					width: 100%;
 				}
 
@@ -3944,7 +3949,7 @@
 		@media screen and (orientation: portrait) and (max-width: 480px) {
 
 			#banner .image {
-				max-height: 35vh;
+				/*max-height: 35vh;*/
 			}
 
 		}
