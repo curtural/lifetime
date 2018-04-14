@@ -84,16 +84,16 @@
 				</header>
 				<ul>
 					<li>
-						<a href="index.html">首頁</a>
+						<a href="index.html" class="chinese_traditional">首頁</a>
 					</li>
 					<li>
-						<a href="product.html">產品</a>
+						<a href="product.html" class="chinese_traditional">產品</a>
 					</li>
 					<li>
-						<a href="study.html">教學</a>
+						<a href="study.html" class="chinese_traditional">教學</a>
 					</li>
 					<li>
-						<a href="brand.html">聯名商品</a>
+						<a href="brand.html" class="chinese_traditional">聯名商品</a>
 					</li>
 				</ul>
 			</nav>
