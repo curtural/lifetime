@@ -80,31 +80,34 @@
 		var tmpmenu = `<div class="inner">
 			<nav id="menu">
 				<header class="major">
-					<h2>選單</h2>
+					<h2 class="chinese_traditional">選單</h2>
 				</header>
 				<ul>
 					<li>
 						<a href="index.html" class="chinese_traditional">首頁</a>
 					</li>
 					<li>
-						<a href="product.html" class="chinese_traditional">產品</a>
+						<a href="story.html" class="chinese_traditional">生色故事</a>
 					</li>
 					<li>
-						<a href="study.html" class="chinese_traditional">教學</a>
+						<a href="product.html" class="chinese_traditional">染織商品</a>
 					</li>
 					<li>
 						<a href="brand.html" class="chinese_traditional">聯名商品</a>
+					</li>
+					<li>
+						<a href="study.html" class="chinese_traditional">體驗課程</a>
 					</li>
 				</ul>
 			</nav>
 			<section>
 				<header class="major">
-					<h2>聯絡我們</h2>
+					<h2 class="chinese_traditional">聯絡我們</h2>
 				</header>
 				<p>營業時間：週一至週日 10:00-18:00 </br>(週二,週三 休息)</p>
 				<ul class="contact">
 					<li class="fa-envelope-o">
-						<a href="#">information@untitled.tld</a>
+						<a href="mailto:stephaniehlin@hotmail.com">stephaniehlin@hotmail.com</a>
 					</li>
 					<li class="fa-phone">0970-819-138</li>
 					<li class="fa-home">宜蘭縣五結鄉中正路二段6-8號，<a href="https://chccp.e-land.gov.tw/%E4%BA%A4%E9%80%9A%E8%B3%87%E8%A8%8A/" target="_blank">中興文創園區12號倉庫</a></li>
